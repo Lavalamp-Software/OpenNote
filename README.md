@@ -2,7 +2,7 @@
 ---
 Created by shabman (avia.shabbyman@gmail.com)
 
-(https://github.com/Lavalamp-Software/OpenNote/blob/main/editor.png)
+![](https://github.com/Lavalamp-Software/OpenNote/blob/main/editor.png)
 
 # What is OpenNote?
 ---
